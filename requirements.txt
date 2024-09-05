@@ -2,6 +2,7 @@ gunicorn
 fastapi
 pydantic
 uvicorn
+python-docx
 flask
 flask-cors
 docx
