@@ -5,6 +5,7 @@ uvicorn
 python-docx
 flask
 flask-cors
+python-multipart
 docx
 docx2txt
 PyPDF2
